@@ -3,8 +3,10 @@ Scaling the Tiny-M up to 180mm bed and adding a belted Z axis
 
 ## Things to do as of 
 - [x] Create a repo
-- [ ] Upload CAD and STLs
+- [x] Upload CAD
+- [ ] Upload STLs
 - [ ] Order parts
+- [ ] Print Parts
 - [ ] Assemble Frame
 - [ ] Wire Electronics
 - [ ] Configure Klipper/Mainsail/Fluidd
