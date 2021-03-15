@@ -1,7 +1,7 @@
 # Tiny-M-180mm
 Scaling the Tiny-M up to 180mm bed and adding a belted Z axis
 
-## Things to do as of 
+## Things to do as of 3/15/2021
 - [x] Create a repo
 - [x] Upload CAD
 - [ ] Upload STLs
@@ -12,6 +12,10 @@ Scaling the Tiny-M up to 180mm bed and adding a belted Z axis
 - [ ] Configure Klipper/Mainsail/Fluidd
 - [ ] ????
 - [ ] Profit
+
+## Updates 3/15/2021
+Added latest CAD file.  Moved tool setter outward to support using the bigger Prusa Mini flex sheet.
+
 
 ##### Reference URLs for quick finding later
 [Tiny-M main repo](https://github.com/gsl12/Tiny-M/tree/master/STLs) - https://github.com/gsl12/Tiny-M/tree/master/STLs<br/>
